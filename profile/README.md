@@ -1,6 +1,6 @@
 # Seturan
 
-**Seturan** is a permissionless, omnichain lending protocol built for **composable DeFi**, powered by :contentReference[oaicite:0]{index=0} and natively deployed on :contentReference[oaicite:1]{index=1}.
+**Seturan** is a permissionless, omnichain lending protocol built for **composable DeFi**
 
 Seturan transforms lending from a standalone financial action into a **modular, composable liquidity layer**, enabling capital, risk, and positions to move seamlessly across chains while remaining fully non-custodial and permissionless.
 
